@@ -47,7 +47,7 @@
     "gulp": "^3.9.1",
     "libp2p-multiplex": "~0.4.3",
     "libp2p-secio": "~0.6.8",
-    "libp2p-spdy": "~0.10.6",
+    "libp2p-spdy": "0.10.4",
     "libp2p-tcp": "~0.9.4",
     "libp2p-webrtc-star": "~0.8.10",
     "libp2p-websockets": "~0.9.4",
