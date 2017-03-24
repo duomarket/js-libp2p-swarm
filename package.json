@@ -62,13 +62,13 @@
     "debug": "^2.6.3",
     "interface-connection": "~0.3.2",
     "ip-address": "^5.8.6",
-    "libp2p-identify": "~0.3.3",
+    "libp2p-identify": "git://github.com/duomarket/js-libp2p-identify.git",
     "lodash.includes": "^4.3.0",
     "multiaddr": "^2.2.3",
     "multistream-select": "~0.13.5",
     "once": "^1.4.0",
-    "peer-id": "~0.8.5",
-    "peer-info": "~0.8.5",
+    "peer-id": "git://github.com/duomarket/js-peer-id.git",
+    "peer-info": "git://github.com/duomarket/js-peer-info.git",
     "protocol-buffers": "^3.2.1"
   },
   "contributors": [
